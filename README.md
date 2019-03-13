@@ -1,7 +1,5 @@
 # Selectors in Redux
 
-ReactCasts, episode 8.
-
 Selectors are neither something you import from Redux nor an external library you must install. But they are present in many Redux projects nonetheless.
 Technically selectors are just convenient functions used for looking up and retrieving snippets of data from the Redux store, into your components... But they play an important role as they help cope with derived and related data - allowing Redux to store the minimal possible state.
 
