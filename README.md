@@ -1,3 +1,5 @@
+[![Build Status](https://dev.azure.com/tatevikvardanyan2/tatevikvardanyan/_apis/build/status/TatevG.react-selectors?branchName=master)](https://dev.azure.com/tatevikvardanyan2/tatevikvardanyan/_build/latest?definitionId=1&branchName=master)
+
 # Selectors in Redux
 
 Selectors are neither something you import from Redux nor an external library you must install. But they are present in many Redux projects nonetheless.
